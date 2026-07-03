@@ -191,7 +191,7 @@ https://www.linkedin.com/in/nitin-kumar-vasdhani/
 nitinkumarvasdhani786@gmail.com
 
 🌍 **Portfolio**  
-https://studiosolver.com
+https://nitinkumarvasdhani.vercel.app/
 
 🚀 **AutoFlowMatrix**  
 https://autoflowmatrix.com
