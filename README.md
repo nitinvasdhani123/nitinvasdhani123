@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitin Kumar Vasdhani</h1>
 
 <h3 align="center">
-Backend Engineer • Laravel & PHP Developer • API Specialist • SaaS Founder
+Backend Engineer • API Specialist • SaaS Founder
 </h3>
 
 <p align="center">
