@@ -1,99 +1,154 @@
-<h1 align="center">Hi 👋, I'm Nitin Vasdhani</h1>
-<h3 align="center">Backend Developer | Laravel | PHP | REST APIs | MySQL | Next.js</h3>
+<h1 align="center">Hi 👋, I'm Nitin Kumar Vasdhani</h1>
+
+<h3 align="center">
+Backend Engineer • Laravel & PHP Developer • API Specialist • SaaS Founder
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nitinvasdhani123&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+I build scalable backend systems, SaaS products, business automation platforms, and RESTful APIs.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nitinvasdhani123&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💼 Backend Developer passionate about scalable web applications.
-- 🔭 Currently working on Laravel-based enterprise projects.
-- 🌱 Exploring AI integrations, automation, and cloud technologies.
-- 💡 Interested in Software Architecture, APIs, and Performance Optimization.
-- 🎯 Goal: Become a Senior Software Engineer and build impactful products.
+- 💼 Backend Engineer with expertise in **Laravel, PHP, MySQL, JavaScript, and REST APIs**
+- 🚀 Founder of **AutoFlowMatrix** – Workflow Automation Platform
+- ✍️ Founder of **EaseMyBlogs** – SEO & Blogging Platform
+- ⚙️ Experienced in developing enterprise applications, SaaS products, payment gateways, and automation systems.
+- 🔐 Passionate about writing secure, scalable, and maintainable backend architectures.
+- 📈 Always learning new technologies to build faster and better software.
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,javascript,html,css" />
+</p>
 
 ### Backend
-- PHP
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+### Experienced With
+
 - Laravel
-- REST API
+- PHP
 - MySQL
-- MVC Architecture
-
-### Frontend
-- HTML5
-- CSS3
+- REST APIs
+- AJAX
+- JSON
 - Bootstrap
-- JavaScript
 - jQuery
-- Next.js
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- Composer
-- XAMPP
-
-### Others
-- SEO
-- Linux
-- cPanel
-- Cron Jobs
-- Stripe
-- PayPal
+- Stripe Payments
+- PayPal Integration
 - Webhooks
+- Cron Jobs
+- SEO
+- Composer
+- cPanel
+- MVC Architecture
+- API Integration
+- Payment Gateway Integration
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 OneLedger
-Business management software with billing, inventory, customer management, reports, and analytics.
+## 🚀 AutoFlowMatrix
 
-### 🔹 Invoice4You
-Modern invoice generation and accounting solution.
+A workflow automation platform designed to automate repetitive business operations and improve team productivity.
 
-### 🔹 StudioSolver
-Portfolio platform built using Next.js.
+**Tech:** Laravel • PHP • MySQL • REST APIs
 
-### 🔹 EaseMyBlogs
-SEO-focused blogging platform.
+🌐 https://autoflowmatrix.com
 
 ---
 
-## 📊 GitHub Stats
+## ✍️ EaseMyBlogs
+
+SEO-first blogging platform that helps creators and businesses publish optimized content with ease.
+
+**Tech:** Laravel • PHP • MySQL
+
+🌐 https://easemyblogs.com
+
+---
+
+## 💼 OneLedger
+
+Business Management Software offering Inventory Management, Billing, Accounting, Reports, Customer Management, and Business Analytics.
+
+---
+
+## 📄 Invoice4You
+
+A modern invoicing solution for businesses with invoice generation, customer management, and financial reporting.
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nitinvasdhani123&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nitinvasdhani123&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinvasdhani123&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinvasdhani123&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=nitinvasdhani123&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=nitinvasdhani123&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# 📈 Contribution Graph
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-- 📧 Email: YOUR_EMAIL
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinvasdhani123&theme=github-dark"/>
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 🌐 Connect With Me
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/nitin-kumar-vasdhani/
+
+📧 **Email**  
+nitinkumarvasdhani786@gmail.com
+
+🌍 **Portfolio**  
+https://studiosolver.com
+
+🚀 **AutoFlowMatrix**  
+https://autoflowmatrix.com
+
+✍️ **EaseMyBlogs**  
+https://easemyblogs.com
+
+---
+
+<p align="center">
+<b>"Building scalable software that empowers businesses through automation and innovation."</b>
+</p>
