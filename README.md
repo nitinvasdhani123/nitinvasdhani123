@@ -16,7 +16,7 @@ Building scalable backend systems, SaaS products, automation platforms, and REST
 
 # 👨‍💻 About Me
 
-- 💼 Backend Engineer specializing in **Laravel, PHP, MySQL, REST APIs, and SaaS Development**
+- 💼 Backend Engineer specializing in **Laravel, Node JS, Python, Fast APIs, Django, MySQL, REST APIs, and SaaS Development**
 - 🚀 Founder of **AutoFlowMatrix** – AI Workflow Automation Platform
 - ✍️ Founder of **EaseMyBlogs** – SEO & Blogging Platform
 - ⚙️ Experienced in developing enterprise software, CRM, ERP, Billing Systems, Payment Integrations, and Business Automation.
